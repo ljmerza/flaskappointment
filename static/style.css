@@ -1,0 +1,19 @@
+.row {
+	margin-bottom: 3em;
+}
+
+h1 {
+	margin-top: 2em;
+}
+
+.btn-group {
+	margin-bottom: 1em;
+}
+
+.btn-group .btn {
+	margin-right: 1em;
+}
+
+.newForm {
+	display: none;
+}
